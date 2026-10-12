@@ -8,7 +8,7 @@ Actualmente estoy enfocado en el ecosistema **Indie Hacking**, construyendo mis 
 
 ### 🛠️ Tecnologías y Herramientas
 
-*   **Backend & APIs:** Java, PHP, Laravel
+*   **Backend & APIs:** PHP, Laravel
 *   **Móvil:** Kotlin, Android Studio
 *   **Automatización & Datos:** n8n, Supabase, Extracción de Datos (Web Scraping)
 *   **Inteligencia Artificial:** Prompt Engineering, Agentes Autónomos (Dapta), QA con IA
@@ -17,9 +17,6 @@ Actualmente estoy enfocado en el ecosistema **Indie Hacking**, construyendo mis 
 ### 🚀 ¿En qué estoy trabajando ahora?
 - 📱 Desarrollando una aplicación nativa en Kotlin para la gestión integral de finanzas personales, presupuestos e integración con datos de mercado.
 - ⚙️ Creando arquitecturas de automatización con n8n para optimizar embudos de ventas y sincronización de CRMs.
-
-### 📈 Mis Estadísticas
-[![GitHub stats]](https://github.com/Morave11)
 
 ### 📫 Contáctame
 - **LinkedIn:** [AQUÍ PON TU LINK DE LINKEDIN]
