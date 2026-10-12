@@ -8,7 +8,7 @@ Actualmente estoy enfocado en el ecosistema **Indie Hacking**, construyendo mis 
 
 ### 🛠️ Tecnologías y Herramientas
 
-*   **Backend & APIs:** PHP, Laravel
+*   **Backend & APIs:** Java, PHP, Laravel
 *   **Móvil:** Kotlin, Android Studio
 *   **Automatización & Datos:** n8n, Supabase, Extracción de Datos (Web Scraping)
 *   **Inteligencia Artificial:** Prompt Engineering, Agentes Autónomos (Dapta), QA con IA
