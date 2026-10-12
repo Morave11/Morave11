@@ -19,7 +19,7 @@ Actualmente estoy enfocado en el ecosistema **Indie Hacking**, construyendo mis 
 - ⚙️ Creando arquitecturas de automatización con n8n para optimizar embudos de ventas y sincronización de CRMs.
 
 ### 📈 Mis Estadísticas
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Morave11&show_icons=true&theme=radium)](https://github.com/Morave11)
+[![GitHub stats]](https://github.com/Morave11)
 
 ### 📫 Contáctame
 - **LinkedIn:** [AQUÍ PON TU LINK DE LINKEDIN]
